@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_07a1d81853e052f8f417e97b89299aa5a7ec90bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a4c0538d85812b4ebebc7c2fe6e0cd9a15f57d">
+        <dex dex="/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d2d4c411e32364d8bbf882094d8d74f4b6a52ca9/classes.dex" />
+    </item>
+
+</items>

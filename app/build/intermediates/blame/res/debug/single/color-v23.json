@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

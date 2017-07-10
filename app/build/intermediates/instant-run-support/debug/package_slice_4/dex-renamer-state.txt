@@ -1,0 +1,4 @@
+#Sat May 27 23:53:39 NPT 2017
+base.0=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

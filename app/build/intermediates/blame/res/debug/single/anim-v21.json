@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

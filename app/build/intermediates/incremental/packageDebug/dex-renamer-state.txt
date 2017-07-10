@@ -1,0 +1,7 @@
+#Sat May 27 23:53:40 NPT 2017
+base.0=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d2d4c411e32364d8bbf882094d8d74f4b6a52ca9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_07a1d81853e052f8f417e97b89299aa5a7ec90bc/classes.dex
+base.1=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_07a1d81853e052f8f417e97b89299aa5a7ec90bc
+file.0=/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d2d4c411e32364d8bbf882094d8d74f4b6a52ca9/classes.dex

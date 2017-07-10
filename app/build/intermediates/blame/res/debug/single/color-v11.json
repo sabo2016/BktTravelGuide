@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/boruto/AndroidStudioProjects/TravelGuide/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

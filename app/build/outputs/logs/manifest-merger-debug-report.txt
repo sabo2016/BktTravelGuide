@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:8:5-55:19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/boruto/.android/build-cache/3b8a0b05d32a19318d2a3eb96ccb15ba2b5fd8f0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/boruto/.android/build-cache/86faf895e1324e041aec098e8065783c48df8517/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/boruto/.android/build-cache/b5ef3a75c1d17b583f65e39a59e187f45af25a6c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:24.2.1] /home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/boruto/.android/build-cache/c8f893e4afb1c7c2927579ffd4c468e806a81bc5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/boruto/.android/build-cache/f82388e60f67794041c6c56ab4e69002ca370c11/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/boruto/.android/build-cache/1f91f1dabf573dbcc4c14c80e7dc8c9e42ac8ab4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/boruto/.android/build-cache/53644661fac8e50fb2da22b6b3325584a9d73821/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/boruto/.android/build-cache/2a3de98fb6a3a6164f2f7565b68421b768542db8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/boruto/.android/build-cache/e765474f9a74ca983daad228a4fa0c16d71fca73/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/boruto/.android/build-cache/c1e1ad6d06b09b397a7f833e6c8b9275c1a75f29/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/boruto/.android/build-cache/9d18c4936b2bac707a8cecd0f19dcbe7d36fbe5e/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.assignment.project.travelguide.MainActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:15:9-18:59
+	android:label
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:16:13-41
+service#com.assignment.project.travelguide.location.GPSTracker
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:20:18-53
+activity#com.assignment.project.travelguide.CaptureRouteActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:22:9-25:59
+	android:label
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:24:13-65
+	android:theme
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:23:13-49
+activity#com.assignment.project.travelguide.SearchActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:28:13-58
+	android:parentActivityName
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:29:13-55
+	android:theme
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:27:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:31:13-33:83
+	android:value
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:32:17-63
+activity#com.assignment.project.travelguide.SplashActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:35:9-45:20
+	android:screenOrientation
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:38:13-49
+	android:noHistory
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:37:13-37
+	android:theme
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:36:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:43:27-74
+activity#com.assignment.project.travelguide.HelpActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:46:9-48:58
+	android:parentActivityName
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:47:13-41
+activity#com.assignment.project.travelguide.AboutActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:49:9-51:67
+	android:parentActivityName
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:51:13-55
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:50:13-42
+activity#com.assignment.project.travelguide.PlaceDetailActivity
+ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:52:9-54:67
+	android:parentActivityName
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml:53:13-48
+uses-sdk
+INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/boruto/.android/build-cache/3b8a0b05d32a19318d2a3eb96ccb15ba2b5fd8f0/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/boruto/.android/build-cache/86faf895e1324e041aec098e8065783c48df8517/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/boruto/.android/build-cache/b5ef3a75c1d17b583f65e39a59e187f45af25a6c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:24.2.1] /home/boruto/.android/build-cache/758cf4b1d058ea24f034b44e7a3ccae0b20e8728/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/boruto/.android/build-cache/c8f893e4afb1c7c2927579ffd4c468e806a81bc5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/boruto/.android/build-cache/abbefb47e0160baa83def6f8893646928e1df3f9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /home/boruto/.android/build-cache/f82388e60f67794041c6c56ab4e69002ca370c11/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/boruto/.android/build-cache/1f91f1dabf573dbcc4c14c80e7dc8c9e42ac8ab4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/boruto/.android/build-cache/53644661fac8e50fb2da22b6b3325584a9d73821/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/boruto/.android/build-cache/2a3de98fb6a3a6164f2f7565b68421b768542db8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/boruto/.android/build-cache/e765474f9a74ca983daad228a4fa0c16d71fca73/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/boruto/.android/build-cache/c1e1ad6d06b09b397a7f833e6c8b9275c1a75f29/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] /home/boruto/.android/build-cache/9d18c4936b2bac707a8cecd0f19dcbe7d36fbe5e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/boruto/.android/build-cache/959b062212195a8f6b8ad83bbf38cbdb9039ea7e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boruto/AndroidStudioProjects/TravelGuide/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/boruto/.android/build-cache/0d1ad976bea4eb35d27c571e1736b60ee93c04a5/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/boruto/.android/build-cache/b5ef3a75c1d17b583f65e39a59e187f45af25a6c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/boruto/.android/build-cache/b5ef3a75c1d17b583f65e39a59e187f45af25a6c/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/boruto/.android/build-cache/b5ef3a75c1d17b583f65e39a59e187f45af25a6c/output/AndroidManifest.xml:20:20-65
